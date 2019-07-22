@@ -2,8 +2,25 @@
 # Learning Optimal Fair Policies
 
 
-## Paper 
-http://proceedings.mlr.press/v97/nabi19a/nabi19a.pdf
+This is an implementation of the following paper: 
+
+[Learning Optimal Fair Policies](http://proceedings.mlr.press/v97/nabi19a/nabi19a.pdf)
+(ICML, 2019)
+
+
+
+If you find it useful, please consider citing:
+```
+@inproceedings{nabi19fairpolicy, 
+title = {Learning Optimal Fair Policies},
+author = { Razieh Nabi and Daniel Malinsky and Ilya Shpitser},
+booktitle = {Proceedings of the Thirty Sixth International Conference on Machine Learning (ICML-36th)},
+year = { 2019 }, 
+publisher = {PMLR}, 
+volume = {97}, 
+pages = {4674-4682}
+}
+```
 
 
 ## Abstract 
